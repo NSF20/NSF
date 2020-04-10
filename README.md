@@ -7,3 +7,5 @@ Source code of the paper 'Aligning Users Across Social Networks Without High Nei
 - numpy
 - tqdm
 - networkx
+
+We will complete the supplement as soon as possible.
